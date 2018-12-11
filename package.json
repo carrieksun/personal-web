@@ -1,0 +1,15 @@
+{
+  "name": "carrie",
+  "version": "1.0.0",
+  "description": "personal website in progress",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/carrieksun/personal-web",
+    "type": "git"
+  },
+  "author": "Carrie Sun",
+  "license": "MIT",
+  "dependencies": {
+    "blendid": "^4.4.3"
+  }
+}
